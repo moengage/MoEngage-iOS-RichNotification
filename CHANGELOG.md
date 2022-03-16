@@ -2,7 +2,7 @@
 =================================
 
 # Change Log:
-### Version 6.0.0  *(31st January 2022)*
+### Version 6.0.0  *(16th March, 2022)*
 -------------------------------------------
 * Renamed the module to MoEngageRichNotification.
 

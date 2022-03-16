@@ -6,7 +6,7 @@
 	<dict>
 		<key>CHANGELOG.md</key>
 		<data>
-		3fju/TUFgBN8JPAThK+7jCEVPVA=
+		tTyTpGJvcSpMcodVe+3ozyCJOdQ=
 		</data>
 		<key>Headers/MoEngageRichNotification-Swift.h</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Modules/MoEngageRichNotification.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		je6/cRxQZ3ha3Nk/rQbzA3koNsk=
+		UhkujLMIRI+eSDNWXGabMK6QdTU=
 		</data>
 		<key>Modules/MoEngageRichNotification.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/MoEngageRichNotification.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		je6/cRxQZ3ha3Nk/rQbzA3koNsk=
+		UhkujLMIRI+eSDNWXGabMK6QdTU=
 		</data>
 		<key>Modules/MoEngageRichNotification.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>Modules/MoEngageRichNotification.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		khY8udp48woBjE5bVNG1RHZ9Nng=
+		u5jsezgQt2dxcWn/B0hTrkY30uw=
 		</data>
 		<key>Modules/MoEngageRichNotification.swiftmodule/i386.swiftdoc</key>
 		<data>
@@ -86,7 +86,7 @@
 		</data>
 		<key>Modules/MoEngageRichNotification.swiftmodule/i386.swiftmodule</key>
 		<data>
-		khY8udp48woBjE5bVNG1RHZ9Nng=
+		u5jsezgQt2dxcWn/B0hTrkY30uw=
 		</data>
 		<key>Modules/MoEngageRichNotification.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -98,7 +98,7 @@
 		</data>
 		<key>Modules/MoEngageRichNotification.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Gf5MT2ZYEXyUU+lEKJRnsgAhhTc=
+		sjeoyHAwNnk1j7zNhsW+S21BlvI=
 		</data>
 		<key>Modules/MoEngageRichNotification.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -110,7 +110,7 @@
 		</data>
 		<key>Modules/MoEngageRichNotification.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		Gf5MT2ZYEXyUU+lEKJRnsgAhhTc=
+		sjeoyHAwNnk1j7zNhsW+S21BlvI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -123,11 +123,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3fju/TUFgBN8JPAThK+7jCEVPVA=
+			tTyTpGJvcSpMcodVe+3ozyCJOdQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			zAvix60m9TnEyXDG/Bzan4ph+J74GC+A7NfVoo1uNzw=
+			mHF0D6Fjw9V9vs8iyVoJDqGTig4Km4Mxa6iqPAv+IZQ=
 			</data>
 		</dict>
 		<key>Headers/MoEngageRichNotification-Swift.h</key>
@@ -233,11 +233,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			je6/cRxQZ3ha3Nk/rQbzA3koNsk=
+			UhkujLMIRI+eSDNWXGabMK6QdTU=
 			</data>
 			<key>hash2</key>
 			<data>
-			rf/eSn6e2tQeiPrDBmnY6UvT2c4u/iWO4YtUoKNwQJs=
+			vgsI/ygkI+bJjCY3bZf5loRYPUjwjsanWtg3kaOxipo=
 			</data>
 		</dict>
 		<key>Modules/MoEngageRichNotification.swiftmodule/arm64.swiftdoc</key>
@@ -266,11 +266,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			je6/cRxQZ3ha3Nk/rQbzA3koNsk=
+			UhkujLMIRI+eSDNWXGabMK6QdTU=
 			</data>
 			<key>hash2</key>
 			<data>
-			rf/eSn6e2tQeiPrDBmnY6UvT2c4u/iWO4YtUoKNwQJs=
+			vgsI/ygkI+bJjCY3bZf5loRYPUjwjsanWtg3kaOxipo=
 			</data>
 		</dict>
 		<key>Modules/MoEngageRichNotification.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
@@ -299,11 +299,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			khY8udp48woBjE5bVNG1RHZ9Nng=
+			u5jsezgQt2dxcWn/B0hTrkY30uw=
 			</data>
 			<key>hash2</key>
 			<data>
-			AttzLfHy/pVrmfmj+AZhKOyiYuCv+Db7A/B38QbXu1o=
+			FH6/dJbacU39Rkmx4FA1G8eGdjWxaccxOYSLFwVuS7s=
 			</data>
 		</dict>
 		<key>Modules/MoEngageRichNotification.swiftmodule/i386.swiftdoc</key>
@@ -332,11 +332,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			khY8udp48woBjE5bVNG1RHZ9Nng=
+			u5jsezgQt2dxcWn/B0hTrkY30uw=
 			</data>
 			<key>hash2</key>
 			<data>
-			AttzLfHy/pVrmfmj+AZhKOyiYuCv+Db7A/B38QbXu1o=
+			FH6/dJbacU39Rkmx4FA1G8eGdjWxaccxOYSLFwVuS7s=
 			</data>
 		</dict>
 		<key>Modules/MoEngageRichNotification.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -365,11 +365,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Gf5MT2ZYEXyUU+lEKJRnsgAhhTc=
+			sjeoyHAwNnk1j7zNhsW+S21BlvI=
 			</data>
 			<key>hash2</key>
 			<data>
-			Tq1OCImiBgst4zbHJgev9Zgfuzb1t5aAtMCmI5KnlhU=
+			D1ZboFpFjiJYGpoOc8rKUpH3KAjyUOHxAHoFKIjWwNI=
 			</data>
 		</dict>
 		<key>Modules/MoEngageRichNotification.swiftmodule/x86_64.swiftdoc</key>
@@ -398,11 +398,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Gf5MT2ZYEXyUU+lEKJRnsgAhhTc=
+			sjeoyHAwNnk1j7zNhsW+S21BlvI=
 			</data>
 			<key>hash2</key>
 			<data>
-			Tq1OCImiBgst4zbHJgev9Zgfuzb1t5aAtMCmI5KnlhU=
+			D1ZboFpFjiJYGpoOc8rKUpH3KAjyUOHxAHoFKIjWwNI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
