@@ -14,7 +14,7 @@ let package = Package(
         .package(name: "MoEngage-iOS-SDK",url: "https://github.com/moengage/MoEngage-iOS-SDK.git", from: "8.0.0"),
     ],
     targets: [
-        .target(name: "MoEngageRichNotificationSPM", dependencies: ["MoEngage-iOS-SDK"], path: "Sources/..",exclude: ["MORichNotification.podspec", "README.md","./Frameworks/MoEngageRichNotification.xcframework", "LICENSE","CHANGELOG.md"]),
+        .target(name: "MoEngageRichNotificationSPM", dependencies: ["MoEngage-iOS-SDK"], path: "Sources/..",exclude: ["MoEngageRichNotification.podspec", "README.md","./Frameworks/MoEngageRichNotification.xcframework", "LICENSE","CHANGELOG.md"]),
         .binaryTarget(name: "MoEngageRichNotification",path: "./Frameworks/MoEngageRichNotification.xcframework")
     ]
 )

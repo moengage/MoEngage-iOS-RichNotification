@@ -17,7 +17,7 @@ CocoaPods is a dependency manager for Objective C & Swift projects and makes int
     
 2. If you don't have a Podfile, create a plain text file named Podfile in the Xcode project directory with the following content, making sure to set the platform and version that matches your app.
 
-    ```pod 'MORichNotification'```
+    ```pod 'MoEngageRichNotification'```
     
 3. Install MoEngageRichNotification SDK by executing the following in the Xcode project directory.
 
@@ -29,7 +29,7 @@ CocoaPods is a dependency manager for Objective C & Swift projects and makes int
 Thats it!! SDK is successfully integrated in the project, and ready to use. 
 
 ## Developer Docs
-Please refer to our developer docs to know how to make use of our RTT module: [link](https://developers.moengage.com/hc/en-us/articles/4403930540820-Push-Notification-Implementation#3-add-usernotifications-framework-to-extension-target--0-17).
+Please refer to our developer docs to know how to make use of our RichNotification module: [link](https://developers.moengage.com/hc/en-us/articles/4403930540820-Push-Notification-Implementation#3-add-usernotifications-framework-to-extension-target--0-17).
 
 ## Change Log
 See [SDK Change Log](https://github.com/moengage/MoEngage-iOS-RichNotification/blob/master/CHANGELOG.md) for information on every released version.
