@@ -2,13 +2,11 @@
 ===========================
 
 ## Change Log:
-### Version 6.1.0  *(29th March, 2022)*
+### Version 6.2.0  *(7th June, 2022)*
 -------------------------------------------
-* Updated the dependency to MoEngage-iOS-SDK 8.1.0.
-
-### Version 6.0.0  *(16th March, 2022)*
--------------------------------------------
+* Updated the dependency to MoEngage-iOS-SDK 8.2.0.
 * Renamed the module to MoEngageRichNotification.
+* Provided  Swift Package manager support to install the SDK.
 
 ### Version 5.2.0  *(23rd September, 2021)*
 -------------------------------------------
