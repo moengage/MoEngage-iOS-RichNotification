@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'MoEngageRichNotification'
-  s.version          = '6.2.0'
+  s.version          = '6.2.1'
   s.summary          = 'MoEngage Rich Notifications for iOS.'
 
   s.description  = <<-DESC
