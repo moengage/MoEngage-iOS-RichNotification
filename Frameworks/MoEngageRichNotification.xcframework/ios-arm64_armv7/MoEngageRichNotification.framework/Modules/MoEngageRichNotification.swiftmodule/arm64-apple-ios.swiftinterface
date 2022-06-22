@@ -5,8 +5,8 @@ import AVFoundation
 import CommonCrypto
 import Foundation
 import ImageIO
+import MOCore
 import MoEngageAnalytics
-import MoEngageCore
 import MoEngageMessaging
 @_exported import MoEngageRichNotification
 import Swift
