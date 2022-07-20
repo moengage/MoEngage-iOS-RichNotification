@@ -2,6 +2,11 @@
 =================================
 
 # Change Log:
+### Version 6.3.0  *(20th July, 2022)*
+-------------------------------------------
+*  Updated the dependency to MoEngage-iOS-SDK 8.3.0.
+*  Campaign stats tracking was missed in some cases from the Notification Service extension.
+
 ### Version 6.2.1  *(22nd June, 2022)*
 -------------------------------------------
 *  Fixed the lldb issue when integrating MoEngage-iOS-SDK to Swift application.
