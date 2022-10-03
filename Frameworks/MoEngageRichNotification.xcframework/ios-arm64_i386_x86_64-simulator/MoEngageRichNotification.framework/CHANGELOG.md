@@ -2,6 +2,11 @@
 ===========================
 
 ## Change Log:
+
+### Version 6.3.2  *(3rd October, 2022)*
+-------------------------------------------
+*  BugFix - Handled updating of badge count
+
 ### Version 6.3.1  *(1st August, 2022)*
 -------------------------------------------
 *  BugFix - Handled downloading of resources for Basic notification.
