@@ -1,10 +1,10 @@
 Pod::Spec.new do |s|
   s.name             = 'MoEngageRichNotification'
-  s.version          = '6.4.0'
+  s.version          = '7.0.0'
   s.summary          = 'MoEngage Rich Notifications for iOS.'
 
   s.description  = <<-DESC
-                   MORichNotification helps you to make use Notification Service Extensions to support media in notifications(Rich Push Notifications). This feature is available from iOS version 10.0 and above. 
+                   MoEngageRichNotification helps you to make use Notification Service Extensions to support media in notifications(Rich Push Notifications). This feature is available from iOS version 10.0 and above.
                    DESC
 
   s.homepage     = 'https://www.moengage.com'
@@ -23,5 +23,5 @@ Pod::Spec.new do |s|
   s.ios.vendored_frameworks = 'Frameworks/MoEngageRichNotification.xcframework'
   s.requires_arc = true
   s.frameworks = 'Foundation', 'UIKit', 'UserNotifications', 'UserNotificationsUI'
-  s.dependency 'MoEngage-iOS-SDK', '>= 8.4.0', '< 8.5.0'
+  s.dependency 'MoEngage-iOS-SDK', '>= 9.0.0', '< 9.1.0'
 end
