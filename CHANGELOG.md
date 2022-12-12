@@ -2,6 +2,10 @@
 =================================
 
 # Change Log:
+### Version 6.6.0 *(12th December, 2022)*
+-------------------------------------------
+* Added dSYMs files for debugging.
+
 ### Version 6.5.0 *(12th December, 2022)*
 -------------------------------------------
 * BugFix - Carousel Image Order Mismatch in collapsed mode for rich notifications.
