@@ -2,6 +2,10 @@
 =================================
 
 # Change Log:
+### Version 7.1.0 *(13th December, 2022)*
+-------------------------------------------
+* Bugfix - Carousel Image Order Mismatch in collapsed mode for rich notifications.
+
 ### Version 7.0.0 *(7th December, 2022)*
 -------------------------------------------
 * All the classes and modules are prefixed with `MoEngage`.
