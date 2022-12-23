@@ -2,6 +2,10 @@
 =================================
 
 # Change Log:
+### Version 6.7.0 *(23rd December, 2022)*
+-------------------------------------------
+* BugFix - Carousel image not displaying multiple images.
+
 ### Version 6.6.0 *(12th December, 2022)*
 -------------------------------------------
 * Added dSYMs files for debugging.
