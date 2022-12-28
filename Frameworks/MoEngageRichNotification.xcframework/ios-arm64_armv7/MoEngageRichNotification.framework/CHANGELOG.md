@@ -2,6 +2,10 @@
 ===========================
 
 ## Change Log:
+### Version 7.2.0 *(28th December, 2022)*
+-------------------------------------------
+* Bugfix - Fixed Carousel image not displaying multiple images.
+
 ### Version 7.1.0 *(13th December, 2022)*
 -------------------------------------------
 * Bugfix - Carousel Image Order Mismatch in collapsed mode for rich notifications.
