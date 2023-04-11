@@ -1,7 +1,7 @@
 # MoEngageRichNotification
-=================================
+===========================
 
-# Change Log:
+## Change Log:
 ### Version 7.6.0 *(11th April 2023)*
 -------------------------------------------
 * Updated the dependency to MoEngage-iOS-SDK 9.6.0.
@@ -56,6 +56,10 @@
 * Updated the dependency to MoEngage-iOS-SDK 8.2.0.
 * Renamed the module to MoEngageRichNotification.
 * Provided  Swift Package manager support to install the SDK.
+
+### Version 5.2.0  *(23rd September, 2021)*
+-------------------------------------------
+* iOS 15.0 Guidelines followed for Custom Push Templates.
 
 ### Version 5.3.0  *(31st January 2022)*
 -------------------------------------------
@@ -144,5 +148,6 @@ Enabled tracking of push delivery using Notification Service Extension and AppGr
 ### Version 1.0.0  *(5th October, 2016)*
 -------------------------------------------
 Support for standard rich notifications with image/gif/video/audio supported for Notification Service Extension.
+
 
 
