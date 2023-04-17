@@ -6,7 +6,7 @@
 	<dict>
 		<key>CHANGELOG.md</key>
 		<data>
-		xSz9T/sZtkRg5fRPW0MajyLjQ3Q=
+		9ahsfuUapP2ae9R6UpbAiOBtzhU=
 		</data>
 		<key>Headers/MoEngageRichNotification-Swift.h</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		hpyXresULPDFgG9BE6NrkCR1Z+4=
+		p0bDajIcwt3aZMJh0Bs7wx3opxw=
 		</data>
 		<key>LICENSE</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Modules/MoEngageRichNotification.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		CMg9Jm7GmQGDye6ugA8SUeTQEKI=
+		B9P47v6m+rv/VRSEFrBzds4Bu0Y=
 		</data>
 		<key>Modules/MoEngageRichNotification.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Modules/MoEngageRichNotification.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		0XsZB0RgMU13Eeo/bvBH9QpzGlk=
+		AK+lbJHAoZNmNPPt4Tzys3T/ucg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -71,11 +71,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xSz9T/sZtkRg5fRPW0MajyLjQ3Q=
+			9ahsfuUapP2ae9R6UpbAiOBtzhU=
 			</data>
 			<key>hash2</key>
 			<data>
-			ixEusJuSAlTUuH2u1w5KrwJ6X1dmlGLfFzGMzukngus=
+			iXJQKn5NJvRJiYvUOJB2MgHb6F0h+2g2tJx5jPxCifw=
 			</data>
 		</dict>
 		<key>Headers/MoEngageRichNotification-Swift.h</key>
@@ -159,11 +159,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CMg9Jm7GmQGDye6ugA8SUeTQEKI=
+			B9P47v6m+rv/VRSEFrBzds4Bu0Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			+huNk8Ms6GBuCeKyU94yajgLxtKtVTynDYDISL+7ihA=
+			dBXMfcAYdw+tONFJlSguUzA9WpLpOn8g0/JAMhmbstI=
 			</data>
 		</dict>
 		<key>Modules/MoEngageRichNotification.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -203,11 +203,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0XsZB0RgMU13Eeo/bvBH9QpzGlk=
+			AK+lbJHAoZNmNPPt4Tzys3T/ucg=
 			</data>
 			<key>hash2</key>
 			<data>
-			Zfi3alKq/nb6bNCGNUT2Qx5HBhXxvKe8y68kLzS3yUE=
+			vDNmNFzyE2zE6HnOwCOP7N4EBKZCxlNyRR4LU9IHbfg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
