@@ -539,161 +539,161 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRichNotification\/Utils\/MoEngageRichNotificationUtils.swift",
+      "filePath": "\/Users\/rakshitha\/MoEngage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRichNotification\/Utils\/MoEngageRichNotificationUtils.swift",
       "kind": "BooleanLiteral",
       "offset": 1397,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRichNotification\/View\/MoEngagePushBodyView.swift",
+      "filePath": "\/Users\/rakshitha\/MoEngage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRichNotification\/View\/MoEngagePushBodyView.swift",
       "kind": "IntegerLiteral",
       "offset": 609,
       "length": 2,
       "value": "20"
     },
     {
-      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRichNotification\/View\/MoEngagePushBodyView.swift",
+      "filePath": "\/Users\/rakshitha\/MoEngage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRichNotification\/View\/MoEngagePushBodyView.swift",
       "kind": "BooleanLiteral",
       "offset": 634,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRichNotification\/Utils\/MoEngageRichConstants.swift",
+      "filePath": "\/Users\/rakshitha\/MoEngage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRichNotification\/Utils\/MoEngageRichConstants.swift",
       "kind": "StringLiteral",
       "offset": 246,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRichNotification\/Utils\/MoEngageRichConstants.swift",
+      "filePath": "\/Users\/rakshitha\/MoEngage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRichNotification\/Utils\/MoEngageRichConstants.swift",
       "kind": "StringLiteral",
       "offset": 278,
       "length": 13,
       "value": "\"Attachments\""
     },
     {
-      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRichNotification\/Utils\/MoEngageRichConstants.swift",
+      "filePath": "\/Users\/rakshitha\/MoEngage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRichNotification\/Utils\/MoEngageRichConstants.swift",
       "kind": "StringLiteral",
       "offset": 355,
       "length": 18,
       "value": "\"moe_app_group_ID\""
     },
     {
-      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRichNotification\/Utils\/MoEngageRichConstants.swift",
+      "filePath": "\/Users\/rakshitha\/MoEngage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRichNotification\/Utils\/MoEngageRichConstants.swift",
       "kind": "StringLiteral",
       "offset": 411,
       "length": 30,
       "value": "\"moe_push_template_click_info\""
     },
     {
-      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRichNotification\/Utils\/MoEngageRichConstants.swift",
+      "filePath": "\/Users\/rakshitha\/MoEngage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRichNotification\/Utils\/MoEngageRichConstants.swift",
       "kind": "StringLiteral",
       "offset": 484,
       "length": 27,
       "value": "\"moe_pending_notifications\""
     },
     {
-      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRichNotification\/Utils\/MoEngageRichConstants.swift",
+      "filePath": "\/Users\/rakshitha\/MoEngage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRichNotification\/Utils\/MoEngageRichConstants.swift",
       "kind": "StringLiteral",
       "offset": 574,
       "length": 9,
       "value": "\"card_id\""
     },
     {
-      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRichNotification\/Utils\/MoEngageRichConstants.swift",
+      "filePath": "\/Users\/rakshitha\/MoEngage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRichNotification\/Utils\/MoEngageRichConstants.swift",
       "kind": "StringLiteral",
       "offset": 616,
       "length": 13,
       "value": "\"campaign_id\""
     },
     {
-      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRichNotification\/Utils\/MoEngageRichConstants.swift",
+      "filePath": "\/Users\/rakshitha\/MoEngage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRichNotification\/Utils\/MoEngageRichConstants.swift",
       "kind": "StringLiteral",
       "offset": 661,
       "length": 20,
       "value": "\"received_epoch_val\""
     },
     {
-      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRichNotification\/Utils\/MoEngageRichConstants.swift",
+      "filePath": "\/Users\/rakshitha\/MoEngage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRichNotification\/Utils\/MoEngageRichConstants.swift",
       "kind": "StringLiteral",
       "offset": 763,
       "length": 13,
       "value": "\"NSExtension\""
     },
     {
-      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRichNotification\/Utils\/MoEngageRichConstants.swift",
+      "filePath": "\/Users\/rakshitha\/MoEngage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRichNotification\/Utils\/MoEngageRichConstants.swift",
       "kind": "StringLiteral",
       "offset": 818,
       "length": 23,
       "value": "\"NSExtensionAttributes\""
     },
     {
-      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRichNotification\/Utils\/MoEngageRichConstants.swift",
+      "filePath": "\/Users\/rakshitha\/MoEngage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRichNotification\/Utils\/MoEngageRichConstants.swift",
       "kind": "StringLiteral",
       "offset": 884,
       "length": 45,
       "value": "\"UNNotificationExtensionDefaultContentHidden\""
     },
     {
-      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRichNotification\/View\/MoEngageCarouselCollectionView.swift",
+      "filePath": "\/Users\/rakshitha\/MoEngage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRichNotification\/View\/MoEngageCarouselCollectionView.swift",
       "kind": "BooleanLiteral",
       "offset": 519,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRichNotification\/View\/MoEngageCarouselCollectionView.swift",
+      "filePath": "\/Users\/rakshitha\/MoEngage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRichNotification\/View\/MoEngageCarouselCollectionView.swift",
       "kind": "IntegerLiteral",
       "offset": 548,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRichNotification\/View\/MoEngageCarouselCollectionView.swift",
+      "filePath": "\/Users\/rakshitha\/MoEngage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRichNotification\/View\/MoEngageCarouselCollectionView.swift",
       "kind": "IntegerLiteral",
       "offset": 627,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRichNotification\/View\/MoEngageCarouselCollectionView.swift",
+      "filePath": "\/Users\/rakshitha\/MoEngage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRichNotification\/View\/MoEngageCarouselCollectionView.swift",
       "kind": "StringLiteral",
       "offset": 701,
       "length": 14,
       "value": "\"carouselCell\""
     },
     {
-      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRichNotification\/View\/MoEngageCarouselCollectionViewCell.swift",
+      "filePath": "\/Users\/rakshitha\/MoEngage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRichNotification\/View\/MoEngageCarouselCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 409,
       "length": 3,
       "value": "100"
     },
     {
-      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRichNotification\/Controller\/MoEngagePushTemplateController.swift",
+      "filePath": "\/Users\/rakshitha\/MoEngage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRichNotification\/Controller\/MoEngagePushTemplateController.swift",
       "kind": "IntegerLiteral",
       "offset": 426,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRichNotification\/Controller\/MoEngagePushTemplateController.swift",
+      "filePath": "\/Users\/rakshitha\/MoEngage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRichNotification\/Controller\/MoEngagePushTemplateController.swift",
       "kind": "IntegerLiteral",
       "offset": 623,
       "length": 4,
       "value": "2845"
     },
     {
-      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRichNotification\/View\/MoEngagePushMediaView.swift",
+      "filePath": "\/Users\/rakshitha\/MoEngage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRichNotification\/View\/MoEngagePushMediaView.swift",
       "kind": "BooleanLiteral",
       "offset": 362,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRichNotification\/View\/MoEngagePushMediaView.swift",
+      "filePath": "\/Users\/rakshitha\/MoEngage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRichNotification\/View\/MoEngagePushMediaView.swift",
       "kind": "IntegerLiteral",
       "offset": 520,
       "length": 3,
