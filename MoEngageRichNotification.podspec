@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'MoEngageRichNotification'
-  s.version          = '7.7.0'
+  s.version          = '7.8.0'
   s.summary          = 'MoEngage Rich Notifications for iOS.'
 
   s.description  = <<-DESC
@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.license      = { :type => 'Commercial', :file => 'LICENSE' }
   s.author       = { 'MobileDev' => 'mobiledevs@moengage.com' }
   s.platform     = :ios
-  s.ios.deployment_target = '10.0'
+  s.ios.deployment_target = '11.0'
   s.source           = { 
   	:git => 'https://github.com/moengage/MoEngage-iOS-RichNotification.git',
   	:tag => 'richPush-' + s.version.to_s 
@@ -23,5 +23,5 @@ Pod::Spec.new do |s|
   s.ios.vendored_frameworks = 'Frameworks/MoEngageRichNotification.xcframework'
   s.requires_arc = true
   s.frameworks = 'Foundation', 'UIKit', 'UserNotifications', 'UserNotificationsUI'
-  s.dependency 'MoEngage-iOS-SDK', '>= 9.7.0', '< 9.8.0'
+  s.dependency 'MoEngage-iOS-SDK', '>= 9.8.0', '< 9.9.0'
 end
