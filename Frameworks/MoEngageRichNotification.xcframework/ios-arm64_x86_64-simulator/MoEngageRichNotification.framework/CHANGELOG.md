@@ -3,6 +3,11 @@
 
 ## Change Log:
 
+### Version 7.11.0 *(30th August 2023)*
+-------------------------------------------
+* Updated the dependency to MoEngage-iOS-SDK 9.11.0.
+* Internal Code Optimization
+
 ### Version 7.10.0 *(18th July 2023)*
 -------------------------------------------
 * iOS breakpoint issue fix by changing the config settings.
