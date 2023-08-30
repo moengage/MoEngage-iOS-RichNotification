@@ -355,6 +355,7 @@ SWIFT_CLASS("_TtC24MoEngageRichNotification21MoEngagePushMediaView")
 @class UNNotification;
 @class NSString;
 
+/// Handles RichNotification
 SWIFT_CLASS("_TtC24MoEngageRichNotification27MoEngageSDKRichNotification")
 @interface MoEngageSDKRichNotification : NSObject
 /// Method to handle rich Notification by downloading the resources and tracking impression.
@@ -369,7 +370,7 @@ SWIFT_CLASS("_TtC24MoEngageRichNotification27MoEngageSDKRichNotification")
 /// \param notification Remote notification
 ///
 + (void)addPushTemplateToController:(UIViewController * _Nonnull)controller withNotification:(UNNotification * _Nonnull)notification;
-/// Method to set the App Group ID for handling of remote notification
+/// Set the App Group ID for sharing information between app and extension target.
 /// \param appGroupID Pass the same value that is set for <code>MoEngageSDKConfig.appGroupID</code> instance.
 ///
 + (void)setAppGroupID:(NSString * _Nonnull)appGroupID;
@@ -377,6 +378,7 @@ SWIFT_CLASS("_TtC24MoEngageRichNotification27MoEngageSDKRichNotification")
 /// \param request UNNotificationRequest instance that contains local notification content
 ///
 /// \param contentHandler completion block with updated notification content
+/// :nodoc:
 ///
 + (void)handleWithLocalNotificationRequest:(UNNotificationRequest * _Nonnull)request withContentHandler:(void (^ _Nonnull)(UNNotificationContent * _Nonnull))contentHandler;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
@@ -748,6 +750,7 @@ SWIFT_CLASS("_TtC24MoEngageRichNotification21MoEngagePushMediaView")
 @class UNNotification;
 @class NSString;
 
+/// Handles RichNotification
 SWIFT_CLASS("_TtC24MoEngageRichNotification27MoEngageSDKRichNotification")
 @interface MoEngageSDKRichNotification : NSObject
 /// Method to handle rich Notification by downloading the resources and tracking impression.
@@ -762,7 +765,7 @@ SWIFT_CLASS("_TtC24MoEngageRichNotification27MoEngageSDKRichNotification")
 /// \param notification Remote notification
 ///
 + (void)addPushTemplateToController:(UIViewController * _Nonnull)controller withNotification:(UNNotification * _Nonnull)notification;
-/// Method to set the App Group ID for handling of remote notification
+/// Set the App Group ID for sharing information between app and extension target.
 /// \param appGroupID Pass the same value that is set for <code>MoEngageSDKConfig.appGroupID</code> instance.
 ///
 + (void)setAppGroupID:(NSString * _Nonnull)appGroupID;
@@ -770,6 +773,7 @@ SWIFT_CLASS("_TtC24MoEngageRichNotification27MoEngageSDKRichNotification")
 /// \param request UNNotificationRequest instance that contains local notification content
 ///
 /// \param contentHandler completion block with updated notification content
+/// :nodoc:
 ///
 + (void)handleWithLocalNotificationRequest:(UNNotificationRequest * _Nonnull)request withContentHandler:(void (^ _Nonnull)(UNNotificationContent * _Nonnull))contentHandler;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;

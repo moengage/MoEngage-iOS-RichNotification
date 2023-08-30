@@ -6,11 +6,11 @@
 	<dict>
 		<key>CHANGELOG.md</key>
 		<data>
-		fYkyGyfnmhY8khQ+t7PqW8dR+pQ=
+		PbwSfRCRfFJJCe3OMScef5ncEOk=
 		</data>
 		<key>Headers/MoEngageRichNotification-Swift.h</key>
 		<data>
-		RxMZNBRtRV9JJx1uIwiebUz5C4g=
+		cb0/iDzYKtVtKELbPtPECqJ18gk=
 		</data>
 		<key>Headers/MoEngageRichNotification.h</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Rs+IwTTEkBvoW7FJ9cs6ZPkO+dc=
+		uY+T2SIOuiW5VpBhSr74HxLQz/E=
 		</data>
 		<key>LICENSE</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Modules/MoEngageRichNotification.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		HzRfk/n9851siCay1f9Xypkxhj0=
+		6Hja1tTk3LyNWXblZXfO963bRgs=
 		</data>
 		<key>Modules/MoEngageRichNotification.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Modules/MoEngageRichNotification.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		dCyXlzWQXKvCVeLXtafw3tcsu7Q=
+		15Nnwcqy1PGr79APZsL8QZ5iegg=
 		</data>
 		<key>Modules/MoEngageRichNotification.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
@@ -58,11 +58,11 @@
 		</data>
 		<key>Modules/MoEngageRichNotification.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Dr2v5fx6wKrIJj8xiL0DqYaGerc=
+		WgVAPnv2eWlfL/QhNikZR9i31Us=
 		</data>
 		<key>Modules/MoEngageRichNotification.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		HzRfk/n9851siCay1f9Xypkxhj0=
+		6Hja1tTk3LyNWXblZXfO963bRgs=
 		</data>
 		<key>Modules/MoEngageRichNotification.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>Modules/MoEngageRichNotification.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		n4hLZjUmMFQxMrhVyYxNOyF4510=
+		9OT81rSji9qSZdHBBge+VPuMChE=
 		</data>
 		<key>Modules/MoEngageRichNotification.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
@@ -78,7 +78,7 @@
 		</data>
 		<key>Modules/MoEngageRichNotification.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		J+Wl/qu0V4gInFVBb4KzQfgMDg8=
+		Cn46BYiWiVo7nQBcv8k/lv0Ox+g=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -91,14 +91,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Vo+SgrCPl3A6b4X2qPd4JgN+s0kc9DM3AmBQhnjAQFU=
+			mVyZs3/orT7indn2OGg1zzdd+hFgrnUkM1kCU/8Amic=
 			</data>
 		</dict>
 		<key>Headers/MoEngageRichNotification-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yc7NG2CDpNbvA3z4cyqtX3noCNu5geMc9fso56fqdfs=
+			omxDA5qLzYS/RcxS5XxGfdCDwUnF4Gahk+9p/6kbU/U=
 			</data>
 		</dict>
 		<key>Headers/MoEngageRichNotification.h</key>
@@ -147,7 +147,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			diBx+LpJMTE59LI8malvtjNkNaj1WZ1qVfVQYAJXYlE=
+			RyOxcI/vsx3zhkJ8w2GQ/fOJXEfkELfqL2Htqaqi+6w=
 			</data>
 		</dict>
 		<key>Modules/MoEngageRichNotification.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -161,7 +161,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			j/19SbKkF7c4fJ1UZX1Tk+hVuxwpq1LXC5jXN3yQnzI=
+			Ff1pSL/ILTRRz49GVq8AA5U3BQkU/BSGixjWus77bRo=
 			</data>
 		</dict>
 		<key>Modules/MoEngageRichNotification.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
@@ -175,14 +175,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			V//k8j2vNCrfn0kfQtuTNGaQsO75rjZiU0lKxzYBpHw=
+			m0zNx4sB5go1SRJCHCNDXVSblRkhxCEgCZUeZmFqNGs=
 			</data>
 		</dict>
 		<key>Modules/MoEngageRichNotification.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			diBx+LpJMTE59LI8malvtjNkNaj1WZ1qVfVQYAJXYlE=
+			RyOxcI/vsx3zhkJ8w2GQ/fOJXEfkELfqL2Htqaqi+6w=
 			</data>
 		</dict>
 		<key>Modules/MoEngageRichNotification.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -196,7 +196,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FZKk1ZnVC2KQxkFDedceBatWfl8m8Vk0IKLBp36Zi44=
+			d7WWxSwV9sFIXZlTlbPs2Rj8CrrTMGpQ7rZIy3MuIVw=
 			</data>
 		</dict>
 		<key>Modules/MoEngageRichNotification.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
@@ -210,7 +210,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YuEPmyoxEsGBEPJVV6i45WLbY8l+GEnqDaEcUVZTafs=
+			SiW+VPSvctl54ZhHJtOeVer0niU2ldLHY1GyMd91tzY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
