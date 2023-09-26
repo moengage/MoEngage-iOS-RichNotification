@@ -2,6 +2,14 @@
 =================================
 
 # Change Log:
+
+### Version 7.11.1 *(26th September 2023)*
+-------------------------------------------
+* BugFix - MOEN-26967: Fixed `setImage` and `setGIF*` extension methods name collision.
+* BugFix - MOEN-27001: Fixed invalid gif data not falling back to static image.
+* BugFix - MOEN-27000: Fixed gif getting duplicated in carousal.
+* Updated the dependency to MoEngage-iOS-SDK 9.12.0.
+
 ### Version 7.11.0 *(30th August 2023)*
 -------------------------------------------
 * Updated the dependency to MoEngage-iOS-SDK 9.11.0.
