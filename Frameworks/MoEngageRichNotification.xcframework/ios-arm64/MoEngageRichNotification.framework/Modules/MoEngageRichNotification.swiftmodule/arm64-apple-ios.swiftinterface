@@ -21,7 +21,7 @@ public typealias contentHandler = ((UserNotifications.UNNotificationContent) -> 
   @objc public static func handle(richNotificationRequest request: UserNotifications.UNNotificationRequest, withContentHandler contentHandler: @escaping MoEngageRichNotification.contentHandler)
   @objc public static func addPushTemplate(toController controller: UIKit.UIViewController, withNotification notification: UserNotifications.UNNotification)
   @objc public static func setAppGroupID(_ appGroupID: Swift.String)
-  @objc public static func handle(localNotificationRequest request: UserNotifications.UNNotificationRequest, withContentHandler contentHandler: @escaping MoEngageRichNotification.contentHandler)
+  @objc public static func handle(localNotificationRequest request: UserNotifications.UNNotificationRequest, sdkInstance: MoEngageCore.MoEngageSDKInstance, withContentHandler contentHandler: @escaping MoEngageRichNotification.contentHandler)
   @objc override dynamic public init()
   @objc deinit
 }

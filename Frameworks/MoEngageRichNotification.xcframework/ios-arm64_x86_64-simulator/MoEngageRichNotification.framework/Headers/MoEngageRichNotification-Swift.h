@@ -354,6 +354,7 @@ SWIFT_CLASS("_TtC24MoEngageRichNotification21MoEngagePushMediaView")
 @class UIViewController;
 @class UNNotification;
 @class NSString;
+@class MoEngageSDKInstance;
 
 /// Handles RichNotification
 SWIFT_CLASS("_TtC24MoEngageRichNotification27MoEngageSDKRichNotification")
@@ -380,7 +381,7 @@ SWIFT_CLASS("_TtC24MoEngageRichNotification27MoEngageSDKRichNotification")
 /// \param contentHandler completion block with updated notification content
 /// :nodoc:
 ///
-+ (void)handleWithLocalNotificationRequest:(UNNotificationRequest * _Nonnull)request withContentHandler:(void (^ _Nonnull)(UNNotificationContent * _Nonnull))contentHandler;
++ (void)handleWithLocalNotificationRequest:(UNNotificationRequest * _Nonnull)request sdkInstance:(MoEngageSDKInstance * _Nonnull)sdkInstance withContentHandler:(void (^ _Nonnull)(UNNotificationContent * _Nonnull))contentHandler;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
@@ -749,6 +750,7 @@ SWIFT_CLASS("_TtC24MoEngageRichNotification21MoEngagePushMediaView")
 @class UIViewController;
 @class UNNotification;
 @class NSString;
+@class MoEngageSDKInstance;
 
 /// Handles RichNotification
 SWIFT_CLASS("_TtC24MoEngageRichNotification27MoEngageSDKRichNotification")
@@ -775,7 +777,7 @@ SWIFT_CLASS("_TtC24MoEngageRichNotification27MoEngageSDKRichNotification")
 /// \param contentHandler completion block with updated notification content
 /// :nodoc:
 ///
-+ (void)handleWithLocalNotificationRequest:(UNNotificationRequest * _Nonnull)request withContentHandler:(void (^ _Nonnull)(UNNotificationContent * _Nonnull))contentHandler;
++ (void)handleWithLocalNotificationRequest:(UNNotificationRequest * _Nonnull)request sdkInstance:(MoEngageSDKInstance * _Nonnull)sdkInstance withContentHandler:(void (^ _Nonnull)(UNNotificationContent * _Nonnull))contentHandler;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
