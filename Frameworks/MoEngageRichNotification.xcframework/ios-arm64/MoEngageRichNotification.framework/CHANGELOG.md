@@ -3,6 +3,11 @@
 
 ## Change Log:
 
+### Version 7.12.0 *(15th November 2023)*
+-------------------------------------------
+* Added notification impression and click API.
+* BugFix - Refactored public APIs that can cause name collision.
+
 ### Version 7.11.1 *(26th September 2023)*
 -------------------------------------------
 * BugFix - MOEN-26967: Fixed `setImage` and `setGIF*` extension methods name collision.
