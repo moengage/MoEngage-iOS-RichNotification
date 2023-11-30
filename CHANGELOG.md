@@ -3,6 +3,10 @@
 
 # Change Log:
 
+### Version 7.13.0 *(30th November 2023)*
+-------------------------------------------
+* Updated hashing algorithm usages to SHA256.
+
 ### Version 7.12.0 *(15th November 2023)*
 -------------------------------------------
 * Added notification impression and click API.
