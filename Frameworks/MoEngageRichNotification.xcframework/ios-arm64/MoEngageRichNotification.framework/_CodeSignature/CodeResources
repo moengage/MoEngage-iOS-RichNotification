@@ -6,11 +6,11 @@
 	<dict>
 		<key>CHANGELOG.md</key>
 		<data>
-		vzBnbZSKMzhMNuxdvsbXZG283t4=
+		4K85I1tzr8GXk/5qbB4DmZhOOdI=
 		</data>
 		<key>Headers/MoEngageRichNotification-Swift.h</key>
 		<data>
-		9L5t2Eo0+nkWzlrcI65sebmJcoc=
+		XXwvJNLAI5jHiJOMIsMC06fUR08=
 		</data>
 		<key>Headers/MoEngageRichNotification.h</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		hkqpE2iRp5OmOCDuSSiMiflZwbc=
+		98b0fGGzFGj4NTVO6++CwxlgM4Y=
 		</data>
 		<key>LICENSE</key>
 		<data>
@@ -26,43 +26,47 @@
 		</data>
 		<key>MoEngageCarouselCollectionView.nib</key>
 		<data>
-		TR3S0n8bZKHHUTAdBIMOwbe40x8=
+		5bQ+lh9LL6J8xq5hkhwX80AZUPM=
 		</data>
 		<key>MoEngageCarouselCollectionViewCell.nib</key>
 		<data>
-		xf1qtWU/88tLgXPNeCG1VpHZeUE=
+		Vo05wabSRv7tG5T1N5qFhkAewCk=
 		</data>
 		<key>MoEngagePushBodyView.nib</key>
 		<data>
-		gKmYTlGbRRYFkbj1yo53M/PTi+8=
+		hcNpjJphKVaGYdi1EZ2RKwhDtK8=
 		</data>
 		<key>MoEngagePushMediaView.nib</key>
 		<data>
-		j3O0H+fGO2J2jEO4K7Rmg2TB9xo=
+		aRXU55Ib+as1L3Hp2Oy6LX5gfb4=
 		</data>
 		<key>Modules/MoEngageRichNotification.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		9+k9v2VWqejsGCer2cLEUfPQ9wQ=
+		/n4UFJbIJ6JqCaSWsW7QAX7JzFI=
 		</data>
 		<key>Modules/MoEngageRichNotification.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		azFHUYrW3nzKJelJQS4mD7y2k5M=
+		bqVMxqKel5wSS1ExwOtsysUlErg=
 		</data>
 		<key>Modules/MoEngageRichNotification.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		0c3WkEinxMBfaULQ44tvqCipMgo=
+		am8Gfzb61BE0nPuaGbfzzRkA73k=
 		</data>
 		<key>Modules/MoEngageRichNotification.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		azFHUYrW3nzKJelJQS4mD7y2k5M=
+		bqVMxqKel5wSS1ExwOtsysUlErg=
 		</data>
 		<key>Modules/MoEngageRichNotification.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		/D7CQouDGTrPJ1hYbdoKiA7KkjQ=
+		+bg/tAAf3JWXjiH8ERytoxtWfGw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		7cz1Iwci2XhQS+6eP2rRSgSXeaM=
+		KOctMvqmm60kwX3cek98KclDt34=
+		</data>
+		<key>PrivacyInfo.xcprivacy</key>
+		<data>
+		xDtDVxoIt/aqKcd3yHMf8NAfaKU=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -71,14 +75,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0sQGzKYMH4Gi82b0TZ6ml5t+udUzmxVJbtZWPPlvYSE=
+			pXb3shQCXHQVtK2qA/+IgANdmJAcr/U/6MB38bppB08=
 			</data>
 		</dict>
 		<key>Headers/MoEngageRichNotification-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			w9PS8ZhqR7vV2fH/ADY8sX2TCvYlmU2e9AXV4IlMDg0=
+			eqe2GxHWjZBwrHfUrew6NpZApGHw6F4ivnFxOsfkfCU=
 			</data>
 		</dict>
 		<key>Headers/MoEngageRichNotification.h</key>
@@ -99,70 +103,77 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OWQp1Mj8BFz0tTrH4PlhtDN/AVYDCkLn6eNjanmXDDc=
+			gPptPMgnAfKxCMJcTiGOT40lSgYYhK0p4NZkDzsuOn8=
 			</data>
 		</dict>
 		<key>MoEngageCarouselCollectionViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LH+x50phc9E9F4y3uUIS/plbOambXQfFmUIIq1JoARA=
+			zRswFHrhctqtNMpacb/BsNDasUBq+tOxT+Yyd2jb/qU=
 			</data>
 		</dict>
 		<key>MoEngagePushBodyView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oq6/mfX/8Bw642ChLVpaj41LqhMW277bIRQcsILfQts=
+			7GwU6n0XO15vMEj6/eGU+0o64jkskr28FSGWRpiAdRQ=
 			</data>
 		</dict>
 		<key>MoEngagePushMediaView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IHUHfGG9LPkC1gkF2Epg41bsrYnz+bP8mv5RYFW2Qxs=
+			PdY8Gkl6WLylwmMOqyxP7RwbhAncqUBtazCzCPw3p7s=
 			</data>
 		</dict>
 		<key>Modules/MoEngageRichNotification.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UXgannFg4BPIaptB6Z+smw+s4pu6eDxCjoWoD9qcW1g=
+			H0wxh1ClH7XKIz1wXNQ43OPxFLkENSNIT8hUXamXGxM=
 			</data>
 		</dict>
 		<key>Modules/MoEngageRichNotification.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jvF4DyqgPBqTndWq/Xlh8g83Q7LHTvONq40oo1AOnKU=
+			G1LWkdDrCma9dJXvvrL6+hiGS/7Ea3U/0M4whIJXffU=
 			</data>
 		</dict>
 		<key>Modules/MoEngageRichNotification.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bFLgxVegQPhNp4MqOHb5Dp1pEi60sfVacymbF2jHVoE=
+			xiWkq+im+toJ/jgEL2zfXzP8Vy/1KEUr7gityg+0/hM=
 			</data>
 		</dict>
 		<key>Modules/MoEngageRichNotification.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jvF4DyqgPBqTndWq/Xlh8g83Q7LHTvONq40oo1AOnKU=
+			G1LWkdDrCma9dJXvvrL6+hiGS/7Ea3U/0M4whIJXffU=
 			</data>
 		</dict>
 		<key>Modules/MoEngageRichNotification.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rMwIXV3w3cIH/gtx0bMkQidXHTJvJiL+giSKiQqiVQ0=
+			LwzyD2YVPHjFOlrDDL2WqWfIS5EPCBqPUpI2BEUR0YU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vRxQR/jju5dKdBE0kt5TGob1AKJMRWVbLA0CjwSBOy0=
+			EhdCCSMDKx7l/spR5JNpEV4PYUcH/XuD2heqseZBwoo=
+			</data>
+		</dict>
+		<key>PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9Q3RaDB1SkQAyYjFoqusp6tuhGvEGCmCdCB66A3PIh4=
 			</data>
 		</dict>
 	</dict>
