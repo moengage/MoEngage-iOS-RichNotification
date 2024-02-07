@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'MoEngageRichNotification'
-  s.version          = '7.14.0'
+  s.version          = '7.14.1'
   s.summary          = 'MoEngage Rich Notifications for iOS.'
 
   s.description  = <<-DESC
@@ -23,5 +23,5 @@ Pod::Spec.new do |s|
   s.ios.vendored_frameworks = 'Frameworks/MoEngageRichNotification.xcframework'
   s.requires_arc = true
   s.frameworks = 'Foundation', 'UIKit', 'UserNotifications', 'UserNotificationsUI'
-  s.dependency 'MoEngage-iOS-SDK', '>= 9.15.0', '< 9.16.0'
+  s.dependency 'MoEngage-iOS-SDK', '>= 9.15.1', '< 9.16.0'
 end

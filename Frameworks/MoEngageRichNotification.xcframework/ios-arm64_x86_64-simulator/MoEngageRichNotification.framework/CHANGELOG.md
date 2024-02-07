@@ -3,6 +3,10 @@
 
 ## Change Log:
 
+### Version 7.14.1 *(7th February 2024)*
+-------------------------------------------
+* BugFix - Fixed the unnecessary new line rendering.
+
 ### Version 7.14.0 *(23rd January 2024)*
 -------------------------------------------
 * Added privacy manifest file
