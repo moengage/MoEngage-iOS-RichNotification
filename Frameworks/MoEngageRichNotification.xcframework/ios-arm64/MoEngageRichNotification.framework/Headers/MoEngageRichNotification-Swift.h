@@ -336,7 +336,6 @@ SWIFT_CLASS("_TtC24MoEngageRichNotification30MoEngageCarouselCollectionView")
 SWIFT_CLASS("_TtC24MoEngageRichNotification34MoEngageCarouselCollectionViewCell")
 @interface MoEngageCarouselCollectionViewCell : UICollectionViewCell
 @property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified imageView;
-- (void)awakeFromNib;
 - (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end

@@ -3,6 +3,13 @@
 
 # Change Log:
 
+### Version 7.15.0 *(27th February 2024)*
+-------------------------------------------
+* Refactored network layer.
+* Refactored data tracking.
+* Refactored logging.
+* BugFix - Fixed threading issue when downloading the resources.
+
 ### Version 7.14.1 *(7th February 2024)*
 -------------------------------------------
 * BugFix - Fixed the unnecessary new line rendering.
